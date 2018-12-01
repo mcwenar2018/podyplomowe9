@@ -21,6 +21,6 @@ public class Log {
 
         System.out.println(1 + 2 + "z");
         System.out.println("z"+ 1 + 2);
-
+        System.out.println("z"+ 1 + 2);
     }
 }
