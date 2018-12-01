@@ -1,0 +1,9 @@
+Sciaga java:
+
+w IDE:
+
+psvm - public static void main
+wszystkie metody w interfejsie sa publiczne
+
+github:
+mcwenar2018
