@@ -1,6 +1,6 @@
 # podyplomowe
 ## drugi naglowek
 To jest repozytorium zawierajace kilka plikow:
-*batman.jpg 
-*Weather.java 
-*Sample.java 
+* batman.jpg 
+* Weather.java 
+* Sample.java 
